@@ -1,6 +1,6 @@
 {
-  "name": "@simomatte/react-text-transition",
-  "version": "3.1.1-beta",
+  "name": "react-text-transition",
+  "version": "3.1.1-beta3",
   "description": "A React plugin that animates your text when it changes.",
   "typings": "lib/index.d.ts",
   "main": "lib/index.js",
