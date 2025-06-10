@@ -7,7 +7,7 @@
   "jsnext:main": "lib-esm/index.js",
   "module": "lib-esm/index.js",
   "scripts": {
-    "build": "tsc && tsc --outDir lib-esm -m es6",
+    "build": "tsc && tsc --outDir lib-esm -m es2015",
     "dev": "webpack serve --progress --mode development --config demos/webpack.config.js"
   },
   "repository": {
